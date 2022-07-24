@@ -15,7 +15,9 @@ The purpose of this project was to learn the ins and outs of interacting with a 
 
 ## REFLECTIONS
 
+Challenges:
 
+Wins:
 
 
 ## TO WORK ON
