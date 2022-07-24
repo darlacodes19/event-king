@@ -1,4 +1,5 @@
 # Event-King
+![My Image](CONNECT..jpg)
 
 ## PROJECT DESCRIPTION
 
