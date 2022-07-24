@@ -1,4 +1,4 @@
-# event-king
+# Event-King
 
 ## PROJECT DESCRIPTION
 
