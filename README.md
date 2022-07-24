@@ -7,7 +7,7 @@
 
 ## PURPOSE
 
-The purpose of this project was to learn teh ins and outs of interacting with a third party API. 
+The purpose of this project was to learn the ins and outs of interacting with a third party API. 
 
 ## TECHNOLOGIES USED
 
