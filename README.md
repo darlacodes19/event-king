@@ -1,26 +1,26 @@
 # event-king
 
-##PROJECT DESCRIPTION
+## PROJECT DESCRIPTION
 
 
-##PURPOSE
+## PURPOSE
 
 
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 
-##REFLECTIONS
-
-
+## REFLECTIONS
 
 
-##TO WORK ON
-
-*Create a back button
-*Don't display past events
-*Display events in order
 
 
-##ADDITIONS/IMPROVEMENTS MADE
+## TO WORK ON
+
+* Create a back button
+* Don't display past events
+* Display events in order
+
+
+## ADDITIONS/IMPROVEMENTS MADE
 
 
 
