@@ -3,6 +3,8 @@
 
 ## PROJECT DESCRIPTION
 
+Using the ticketmaster API, display relevant events depending on user input. Also allow users to search attractions for specific artists.  
+
 
 
 ## PURPOSE
