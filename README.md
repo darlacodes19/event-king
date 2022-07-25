@@ -23,7 +23,7 @@ Challenges:
 Wins:
 
 ## WIREFRAME
-[embed] Wireframe.pdf [/embed]
+![My Image](wireframe.jpg)
 
 
 ## TO WORK ON
