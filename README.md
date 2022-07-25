@@ -13,6 +13,9 @@ The purpose of this project was to learn the ins and outs of interacting with a 
 
 ## TECHNOLOGIES USED
 
+React
+
+
 ## REFLECTIONS
 
 Challenges:
